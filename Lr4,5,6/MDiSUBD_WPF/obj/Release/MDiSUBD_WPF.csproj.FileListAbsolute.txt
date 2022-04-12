@@ -1,0 +1,92 @@
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\MDiSUBD_WPF.exe.config
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\MDiSUBD_WPF.exe
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\MDiSUBD_WPF.pdb
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\BouncyCastle.Crypto.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\Google.Protobuf.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\K4os.Hash.xxHash.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\MySql.Data.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Buffers.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Memory.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Numerics.Vectors.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\Ubiety.Dns.Core.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\Zstandard.Net.dll
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\Google.Protobuf.pdb
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\Google.Protobuf.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\K4os.Hash.xxHash.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\MySql.Data.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Buffers.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Memory.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Numerics.Vectors.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.AssemblyReference.cache
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\AddCustomerWindow.g.cs
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\AddWindow.g.cs
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\LoggerWindow.g.cs
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\LoginWindow.g.cs
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MainWindow.g.cs
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\App.g.cs
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF_MarkupCompile.cache
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF_MarkupCompile.lref
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\AddCustomerWindow.baml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\AddWindow.baml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\LoggerWindow.baml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\LoginWindow.baml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MainWindow.baml
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.g.resources
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.Properties.Resources.resources
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.GenerateResource.cache
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.CoreCompileInputs.cache
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.CopyComplete
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.exe
+C:\PTUIR\6 semestr\ISOB\Lr4,5\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.pdb
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\MDiSUBD_WPF.exe.config
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\MDiSUBD_WPF.exe
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\MDiSUBD_WPF.pdb
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\Google.Protobuf.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\MySql.Data.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Buffers.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Memory.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\Zstandard.Net.dll
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\Google.Protobuf.pdb
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\Google.Protobuf.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\MySql.Data.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Buffers.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Memory.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\AddCustomerWindow.g.cs
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\AddWindow.g.cs
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\LoggerWindow.g.cs
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\LoginWindow.g.cs
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MainWindow.g.cs
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\App.g.cs
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF_MarkupCompile.cache
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF_MarkupCompile.lref
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\AddCustomerWindow.baml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\AddWindow.baml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\LoggerWindow.baml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\LoginWindow.baml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MainWindow.baml
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.g.resources
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.Properties.Resources.resources
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.csproj.CopyComplete
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.exe
+C:\Users\Dell\Desktop\ISOB\Lr4,5,6\MDiSUBD_WPF\obj\Release\MDiSUBD_WPF.pdb

@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\Vigenere.exe
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\Vigenere.deps.json
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\Vigenere.runtimeconfig.json
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\Vigenere.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\Vigenere.dll
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\ref\Vigenere.dll
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\bin\Debug\net5.0\Vigenere.pdb
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.dll
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\ref\Vigenere.dll
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.pdb
+C:\Users\Dell\Desktop\ISOB\Solution\1.2\Vigenere\Vigenere\obj\Debug\net5.0\Vigenere.genruntimeconfig.cache

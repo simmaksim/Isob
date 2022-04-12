@@ -1,0 +1,48 @@
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ISOB_2.exe
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ISOB_2.deps.json
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ISOB_2.runtimeconfig.json
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ISOB_2.runtimeconfig.dev.json
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ISOB_2.dll
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ref\ISOB_2.dll
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\bin\Debug\net5.0\ISOB_2.pdb
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.csprojAssemblyReference.cache
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.AssemblyInfoInputs.cache
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.AssemblyInfo.cs
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.csproj.CoreCompileInputs.cache
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.dll
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ref\ISOB_2.dll
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.pdb
+C:\Users\sonye\Desktop\Предметы\6сем\ИСОБ\ISOB-lab1\laba2_\obj\Debug\net5.0\ISOB_2.genruntimeconfig.cache
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ISOB_2.exe
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ISOB_2.deps.json
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ISOB_2.runtimeconfig.json
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ISOB_2.runtimeconfig.dev.json
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ISOB_2.dll
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ref\ISOB_2.dll
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\bin\Debug\net5.0\ISOB_2.pdb
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.csproj.AssemblyReference.cache
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.AssemblyInfoInputs.cache
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.AssemblyInfo.cs
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.csproj.CoreCompileInputs.cache
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.dll
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ref\ISOB_2.dll
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.pdb
+C:\PTUIR\6 semestr\ISOB\lab2-3\laba2_\obj\Debug\net5.0\ISOB_2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ISOB_2.exe
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ISOB_2.deps.json
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ISOB_2.runtimeconfig.json
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ISOB_2.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ISOB_2.dll
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ref\ISOB_2.dll
+C:\Users\Dell\Desktop\ISOB\Solution\2\bin\Debug\net5.0\ISOB_2.pdb
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.dll
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ref\ISOB_2.dll
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.pdb
+C:\Users\Dell\Desktop\ISOB\Solution\2\obj\Debug\net5.0\ISOB_2.genruntimeconfig.cache

@@ -1,0 +1,137 @@
+﻿<Window x:Class="MDiSUBD_WPF.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MDiSUBD_WPF"
+        mc:Ignorable="d"
+        Title="Adding Order" Height="450" Width="800" Loaded="Window_Loaded"
+        Icon="C:\PTUIR\5 semestr\MDiSUBD\MDiSUBD_WPF\Images\Logo.jpg" >
+    <Grid>
+        <Label Content="Заказчик" HorizontalAlignment="Left" Margin="33,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="СТО" HorizontalAlignment="Left" Margin="33,53,0,0" VerticalAlignment="Top"/>
+        <Label Content="Номер заказа" HorizontalAlignment="Left" Margin="33,84,0,0" VerticalAlignment="Top"/>
+        <Label Content="Запчасть" HorizontalAlignment="Left" Margin="33,127,0,0" VerticalAlignment="Top"/>
+        <Label Content="Фото" HorizontalAlignment="Left" Margin="33,178,0,0" VerticalAlignment="Top"/>
+        <Label Content="Мастер" HorizontalAlignment="Left" Margin="33,225,0,0" VerticalAlignment="Top"/>
+        <Label Content="Работа" HorizontalAlignment="Left" Margin="33,265,0,0" VerticalAlignment="Top"/>
+        <Label Content="Оплата" HorizontalAlignment="Left" Margin="33,313,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="184,10,0,0" VerticalAlignment="Top" Width="120" Name="customerComboBox" SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock> 
+                                    <Run Text="{Binding customer_id}" />
+                                    <Run Text="  "></Run>
+                        </TextBlock>
+                        <TextBlock>
+                                    <Run Text="{Binding customer_name}" />
+                        </TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Button Content="Добавить заказ" HorizontalAlignment="Left" Margin="430,173,0,0" VerticalAlignment="Top" Width="139" Height="23" Name="addOrderButton" Click="addOrderButton_Click"/>
+        <ComboBox HorizontalAlignment="Left" Margin="184,53,0,0" VerticalAlignment="Top" Width="120" Name="stationComboBox"  SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock>
+                            <Run Text="{Binding workshop_id}" />
+                            <Run Text=" "/>
+                            <Run Text="  "/>
+                        </TextBlock>
+                        <TextBlock>
+                            <Run Text="{Binding workshop_name}" />
+                            <Run Text=" "/>
+                        </TextBlock>
+                        <TextBlock>
+                            <Run Text="{Binding workshop_address}"/>
+                        </TextBlock>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="184,127,0,0" VerticalAlignment="Top" Width="120" Name="detailComboBox"  SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock>
+                            <Run Text="{Binding detail_id}" />
+                            <Run Text=" "/>
+                            <Run Text="{Binding detail_name}"/>
+                            <Run Text=" "/>
+                            <Run Text="{Binding detail_producer}"/>
+                            <Run Text=" "/>
+                            <Run Text="{Binding detail_price}"/>
+                        </TextBlock>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="184,220,0,0" VerticalAlignment="Top" Width="120" Name="masterComboBox"  SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock>
+                            <Run Text="{Binding master_id}" />
+                            <Run Text=" "/>
+                            
+                            <Run Text="{Binding master_name}"/>
+                            <Run Text=" "/>
+                            
+                            <Run Text="{Binding master_category}"/>
+                        </TextBlock>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="184,265,0,0" VerticalAlignment="Top" Width="120" Name="workComboBox"  SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock>
+                            <Run Text="{Binding work_id}" />
+                            <Run Text=" "/>
+                            <Run Text="{Binding work_type}"/>
+                            <Run Text=" "/>
+                            <Run Text="{Binding work_price}"/>
+                        </TextBlock>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="184,308,0,0" VerticalAlignment="Top" Width="120" Name="paymentComboBox"  SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock>
+                            <Run Text="{Binding payment_id}" />
+                            <Run Text=" "/>
+                            <Run Text="{Binding payment_name}"/>
+                        </TextBlock>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="184,173,0,0" VerticalAlignment="Top" Width="120" x:Name="photoComboBox"  SelectedIndex="0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock>
+                            <Run Text="{Binding car_id}" />
+                            <Run Text=" "/>
+                            <Run Text="{Binding car_path}"/>
+                        </TextBlock>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="184,87,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" Name="orderNumberTextBox"/>
+    </Grid>
+</Window>
